@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="FolhaDePagamento.Console/FolhaDePagamento.Console.csproj" />
+  <Project Path="FolhaDePagamento.Core/FolhaDePagamento.Core.csproj" />
+</Solution>
